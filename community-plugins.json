@@ -2555,13 +2555,6 @@
     "repo": "beginner137/Obsidian-simple-note-quiz"
   },
   {
-    "id": "quiz-creator",
-    "name": "Quiz Creator",
-    "author": "Soviji13",
-    "description": "A simple quiz creator, specifically designed for exams",
-    "repo": "Soviji13/quiz-creator"
-  },
-  {
     "id": "obsidian-local-rest-api",
     "name": "Local REST API with MCP",
     "author": "Adam Coddington",
@@ -71118,5 +71111,12 @@
     "author": "Muhammad Tahoun",
     "description": "Plan life areas, goals, projects, tasks, and habits in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "t47oun/obsidian-goal-tree-community"
+  },
+  {
+    "id": "quiz-creator",
+    "name": "Quiz Creator",
+    "author": "Soviji13",
+    "description": "A simple quiz creator, specifically designed for exams",
+    "repo": "Soviji13/quiz-creator"
   }
 ]
